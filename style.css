@@ -1,0 +1,45 @@
+@font-face {
+    font-family: GothicHybrid;
+    src: url(fonts/BuGothicHybrid-xyd5.ttf);
+}
+
+header {
+    font-family: GothicHybrid;
+    font-size: 200px;
+    width: 1300px;
+    margin: auto;
+    color: grey;
+}
+
+body {
+    background-color: rgb(43, 10, 10);
+}
+
+.subtitle {
+    font-family: GothicHybrid;
+    font-size: 70px;
+    width: 1300px;
+    margin: auto;
+    text-align: center;
+    color: grey;
+}
+
+.center-img {
+    text-align: center;
+    margin: 20px;
+}
+
+.center-img img {
+    height: 400px;
+}
+
+.navigation {
+    text-align: center;
+    margin: auto;
+    width: 1300px;
+    display: flexbox;
+}
+
+div {
+    border: 2px solid black;
+}
