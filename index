@@ -22,8 +22,10 @@
 
     <div class="navigation">
         <a href="fiction.html"><img src="assets/stickers/statictv.gif" alt=""></a>
-        <a href=""></a>
-        <a href="manifestos.html"><img src="assets/stickers/kingcrimsonmouth.jpg" alt=""></a>
+        <a href="poetry.html"></a>
+        <a href="manifestos.html"><img src="assets/stickers/kingcrimsonmouth.png" alt=""></a>
+        <a href="thingsilike.html"><img src="assets/stickers/statictv.gif" alt=""></a>
+        <a href="miscart"></a>
     </div>
 
 
