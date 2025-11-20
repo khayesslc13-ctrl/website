@@ -21,11 +21,11 @@
     </div>
 
     <div class="navigation">
-        <a href="fiction.html"><img src="assets/stickers/statictv.gif" alt=""></a>
-        <a href="poetry.html"></a>
-        <a href="manifestos.html"><img src="assets/stickers/kingcrimsonmouth.png" alt=""></a>
-        <a href="thingsilike.html"><img src="assets/stickers/statictv.gif" alt=""></a>
-        <a href="miscart"></a>
+        <a href="fiction.html" title="FICTION"><img src="assets/stickers/statictv.gif"></a>
+        <a href="poetry.html" title="POETRY"><img src=""></a>
+        <a href="manifestos.html" title="MANIFESTOS"><img src="assets/stickers/kingcrimsonmouth.png"></a>
+        <a href="thingsilike.html" title="THINGS I LIKE"><img src="assets/stickers/statictv.gif"></a>
+        <a href="miscart" title="MISC. ART"><img src=""></a>
     </div>
 
 
