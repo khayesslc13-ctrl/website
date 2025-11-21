@@ -27,29 +27,22 @@ body {
 
 .center-img {
     text-align: center;
-    margin: 20px;
+    margin: auto;
+    width: 1100px;
+    padding: 20px;
 }
 
 .center-img img {
     height: 250px;
+    margin: 20px;
 }
 
 .navigation {
     text-align: center;
     margin: auto;
-    width: 1300px;
-    display: flexbox;
+    width: 1100px;
 }
 
 .navigation img {
-    width: 100px;
-}
-
-.fiction:hover {
-    
-}
-
-
-div {
-    border: 2px solid black;
+    height: 75px;
 }
